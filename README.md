@@ -6,7 +6,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **vinayak24pisolkar@gmail.com**
 
