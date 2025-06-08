@@ -8,7 +8,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Node Express PostgreSQL**
 
 - 📫 How to reach me **vinayak24pisolkar@gmail.com**
 
